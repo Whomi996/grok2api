@@ -112,7 +112,7 @@ docker compose up -d
 
 ### Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Whomi996/grok2api&env=ACCOUNT_POSTGRESQL_URL)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Whomi996/grok2api&env=LOG_DIR,LOG_FILE_ENABLED,ACCOUNT_POSTGRESQL_URL)
 
 ### Render
 
